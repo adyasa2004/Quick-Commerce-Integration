@@ -2,6 +2,7 @@
 
 **By Adyasa Mohapatra**  
 *Consulting-style market analysis and strategy blueprint*
+![Live App Screenshot](ss.png)
 
 ---
 
