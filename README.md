@@ -61,5 +61,5 @@ To design a fast, scalable, and sustainable quick-commerce model tailored to **M
 ## 📬 Contact
 
 Feel free to connect with me:  
-📧 adyasamohapatra5@gmail.com  
+📧 m.adyasa@iitg.ac.in 
 🔗 [LinkedIn](https://www.linkedin.com/in/adyasa-mohapatra-499477298/)
